@@ -29,7 +29,7 @@ RSLang приложение для изучения английского яз�
 
 **npm run build**
 
-Приложение развернуто на [netlify](https://63cbad3409b170429c92d848--charming-lily-549580.netlify.app/textbook)
+Приложение развернуто на [netlify](https://63cbad3409b170429c92d848--charming-lily-549580.netlify.app)
 
 ![image](https://user-images.githubusercontent.com/96015895/188492628-faae601a-19b5-471c-aa92-903cc1e60cc4.png)
 
